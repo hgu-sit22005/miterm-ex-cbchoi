@@ -4,8 +4,8 @@
 
 char* generate_3_digit()
 {
-
-
+	std::cout << "Hello" << std::endl;
+	std::cout << "World" << std::endl;
 
 
 
